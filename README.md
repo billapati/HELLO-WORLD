@@ -1,3 +1,1 @@
-# HELLO-WORLD
-HOW ARE YOU
-Learning is my passion
+hi what you are doing
